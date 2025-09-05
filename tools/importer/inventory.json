@@ -880,12 +880,6 @@
           "xpath": "/html[1]/body[1]/uc-root[1]/uc-page-layout[1]/div[1]/sc-placeholder[1]/uc-project-detail[1]/project-detail-intro-component[1]"
         },
         {
-          "url": "https://www.unilin.com/en/about",
-          "urlHash": "a8cfc783a3f580ba1bdf0cd3ad1e5316f9305250",
-          "uuid": "a8cfc783-02-b9aa9eb10a1fc3856dbebc439164f626bfbfa263",
-          "xpath": "/html[1]/body[1]/uc-root[1]/uc-page-layout[1]/div[1]/sc-placeholder[1]/uc-content-block-grid[1]"
-        },
-        {
           "url": "https://www.unilin.com/en/sustainability/your-home",
           "urlHash": "a91f70a9c818894225aff8a261c168271caa70e6",
           "uuid": "a91f70a9-02-9a11d302d3b57f3cf40201732ee44299af21f15e",
