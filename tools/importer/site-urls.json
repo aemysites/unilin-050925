@@ -1,0 +1,552 @@
+{
+  "originUrl": "https://www.unilin.com",
+  "aborted": false,
+  "lastCrawled": "https://www.unilin.com/",
+  "urls": [
+    {
+      "url": "https://www.unilin.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "0a1f35137d09e097c889e388c96c0aaf64616f99"
+    },
+    {
+      "url": "https://www.unilin.com/en",
+      "source": "CRAWL",
+      "targetPath": "/en",
+      "id": "5ef9c57dc019faf6c111f7d812a2b433898042b2"
+    },
+    {
+      "url": "https://www.unilin.com/en/about",
+      "source": "CRAWL",
+      "targetPath": "/en/about",
+      "id": "a8cfc783a3f580ba1bdf0cd3ad1e5316f9305250"
+    },
+    {
+      "url": "https://www.unilin.com/en/about/history",
+      "source": "CRAWL",
+      "targetPath": "/en/about/history",
+      "id": "7abada89fdf2cedc952f39c8148064a39c839b2c"
+    },
+    {
+      "url": "https://www.unilin.com/en/about/purpose-values",
+      "source": "CRAWL",
+      "targetPath": "/en/about/purpose-values",
+      "id": "6bb451ad4c6d59a9515bde830116778dfa811095"
+    },
+    {
+      "url": "https://www.unilin.com/en/about/purpose-values%23entrepreneurship",
+      "source": "CRAWL",
+      "targetPath": "/en/about/purpose-values-entrepreneurship",
+      "id": "2af578a86a83159f06f7eb0da7734c93dbb44bea"
+    },
+    {
+      "url": "https://www.unilin.com/en/about/purpose-values%23excellence",
+      "source": "CRAWL",
+      "targetPath": "/en/about/purpose-values-excellence",
+      "id": "8b9ee392061792df5d26a5b69af5a24523bd015d"
+    },
+    {
+      "url": "https://www.unilin.com/en/accessibility-statement",
+      "source": "CRAWL",
+      "targetPath": "/en/accessibility-statement",
+      "id": "ee9bf9921c6e9c8c03fd4c090ea913fc5bb2c716"
+    },
+    {
+      "url": "https://www.unilin.com/en/contact",
+      "source": "CRAWL",
+      "targetPath": "/en/contact",
+      "id": "0b4010047ef832b5d7c40d92c8c2321a4781560b"
+    },
+    {
+      "url": "https://www.unilin.com/en/disclaimer",
+      "source": "CRAWL",
+      "targetPath": "/en/disclaimer",
+      "id": "1718a80dca3fee74e6e219ec8fe34c291c7f1fd3"
+    },
+    {
+      "url": "https://www.unilin.com/en/jobs",
+      "source": "CRAWL",
+      "targetPath": "/en/jobs",
+      "id": "c50c4d1ed744653ca6f7e699d23af68d8867a60a"
+    },
+    {
+      "url": "https://www.unilin.com/en/our-floors",
+      "source": "CRAWL",
+      "targetPath": "/en/our-floors",
+      "id": "699fefef08ed0bbe40b6134e39f5111b5a269be2"
+    },
+    {
+      "url": "https://www.unilin.com/en/our-floors/recover",
+      "source": "CRAWL",
+      "targetPath": "/en/our-floors/recover",
+      "id": "79ce0da4f2ede9fec9ae361591b2d0d8aed3ce66"
+    },
+    {
+      "url": "https://www.unilin.com/en/privacy-policy",
+      "source": "CRAWL",
+      "targetPath": "/en/privacy-policy",
+      "id": "316ca818dc5139140f646b38f2f028280e56d84d"
+    },
+    {
+      "url": "https://www.unilin.com/en/sitecore/content/sites/unilincorporate/unilincorporate/unilincorporate/home/unilin-stories",
+      "source": "CRAWL",
+      "targetPath": "/en/sitecore/content/sites/unilincorporate/unilincorporate/unilincorporate/home/unilin-stories",
+      "id": "9dd9a35b595fd4354a4816cefcb9213a988d3b48"
+    },
+    {
+      "url": "https://www.unilin.com/en/sustainability",
+      "source": "CRAWL",
+      "targetPath": "/en/sustainability",
+      "id": "d711146a056c8368faf7bc055240f065cdb1a5e6"
+    },
+    {
+      "url": "https://www.unilin.com/en/sustainability/our-home",
+      "source": "CRAWL",
+      "targetPath": "/en/sustainability/our-home",
+      "id": "8cd7d6033460f28616dbba2edea89eb92c9d113d"
+    },
+    {
+      "url": "https://www.unilin.com/en/sustainability/planet-home",
+      "source": "CRAWL",
+      "targetPath": "/en/sustainability/planet-home",
+      "id": "402ce424aa24efa29a89c9c3276aad0b175d1d1c"
+    },
+    {
+      "url": "https://www.unilin.com/en/sustainability/wood-story",
+      "source": "CRAWL",
+      "targetPath": "/en/sustainability/wood-story",
+      "id": "d6194da39004fba0bdd586946a1782843112439e"
+    },
+    {
+      "url": "https://www.unilin.com/en/sustainability/your-home",
+      "source": "CRAWL",
+      "targetPath": "/en/sustainability/your-home",
+      "id": "a91f70a9c818894225aff8a261c168271caa70e6"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories",
+      "id": "7131460b845a68b676564eb583a3f2b6c5d2ba45"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/100-miljoen-euro-voor-energiecentrale-van-de-toekomst",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/100-miljoen-euro-voor-energiecentrale-van-de-toekomst",
+      "id": "37521ba7ae3ff0abcbc68541ff189bc121af2543"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/25-years-in-the-peloton-a-success-story-of-shared-values-now-and-in-the-future",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/25-years-in-the-peloton-a-success-story-of-shared-values-now-and-in-the-future",
+      "id": "a5e164b08452a162cbcee974b379d30ab349be1f"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/abraham-djela-pas-gestart-en-al-meerdere-opleidingen-achter-de-rug",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/abraham-djela-pas-gestart-en-al-meerdere-opleidingen-achter-de-rug",
+      "id": "e8469ccbed824736bcc82130c1a37e0528e3db55"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/ai-at-unilin-assess-what-is-there-and-make-improvements",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/ai-at-unilin-assess-what-is-there-and-make-improvements",
+      "id": "4aecca95efe1383a060444847677a09f84f1da39"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/akoestiek",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/akoestiek",
+      "id": "92d026bd14d4df1bed2949e8c61eb246fead6718"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/always-wanted-to-become-a-technician",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/always-wanted-to-become-a-technician",
+      "id": "5937732ce6b0c2db79829346da557a86a5da9aed"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/belexpo-interview",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/belexpo-interview",
+      "id": "58279cfbf02251bad36adca9d2d49dced887df4f"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/biophilic-design",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/biophilic-design",
+      "id": "0c83fc92b5a15aa3db6f960de7053ab998b70bcb"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/cascada",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/cascada",
+      "id": "d30bfc7b42219ee55c3c6c4c819598eb417adc41"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/circular-thinking-as-a-driving-force",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/circular-thinking-as-a-driving-force",
+      "id": "da0bbe2fa4db534c8e0de9e3ff407b3718c01c26"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/colleague-in-the-picture-gregory",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/colleague-in-the-picture-gregory",
+      "id": "6d8434d317f16471c006a6d119beb82a9804b6eb"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/collegas-in-de-kijker",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/collegas-in-de-kijker",
+      "id": "0e697c2b8958eaa887eb75f9a08efe6976a03019"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/collegas-omarmen-levenslang-leren",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/collegas-omarmen-levenslang-leren",
+      "id": "ce050a37f970af768fc6cf8a3e0458418f94e9f3"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/cradle-to-cradle",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/cradle-to-cradle",
+      "id": "efc675f93e7a084514413a54f2605e863d8f28a4"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/diversity-boosts-the-finance-team",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/diversity-boosts-the-finance-team",
+      "id": "e194ce280cc3955d6bf7a2f225eba908c5e06aa7"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/duaal-leren",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/duaal-leren",
+      "id": "164186012a3884396e485f6def810349306cf83d"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/ecolabels",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/ecolabels",
+      "id": "24cd0afdac4ae8ab4f3c47ce6e32e89ec9f737e1"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/een-vakantiejob-bij-unilin-hoe-gaat-dat",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/een-vakantiejob-bij-unilin-hoe-gaat-dat",
+      "id": "040a119b2fb5e3ba93ba62a9d5fee2420533d2af"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/environmental-coordinator",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/environmental-coordinator",
+      "id": "f526244f020a84c9b86e29b388513f06f7817469"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/feluy-wind-turbines",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/feluy-wind-turbines",
+      "id": "1458c90d9a1a1690dc8ccca7909d4fc4fbd7872a"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/floorward",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/floorward",
+      "id": "e3f65b10693e1d99913441ac552f2508aedb1402"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/from-student-job-to-permanent-job",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/from-student-job-to-permanent-job",
+      "id": "ecacc6833af44827a6c9bcd01defd9bee002b809"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/front-end",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/front-end",
+      "id": "4ae8ade2d88f9255a827375415d9e4199965a8d1"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/green-energy-plants",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/green-energy-plants",
+      "id": "fd617d3f5ca6cf707b548a97c7dd31029016fa8d"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/growing-percentage-of-green-energy-at-our-sites-worldwide",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/growing-percentage-of-green-energy-at-our-sites-worldwide",
+      "id": "c6c8a692a588313ca9a646185d8952fe245e5f72"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/how-unilin-turned-patents-into-a-successful-business",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/how-unilin-turned-patents-into-a-successful-business",
+      "id": "95e8ec2bc5a8c01ceb55a8f07d2f37cd63ef13c1"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/insulation-expert-for-50-years-how-ambitions-and-smart-choices-can-shape-both-past-and-future",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/insulation-expert-for-50-years-how-ambitions-and-smart-choices-can-shape-both-past-and-future",
+      "id": "27486f54ebd790f4a64687a35d76d8a37846fdeb"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/job-heftruckbestuurder",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/job-heftruckbestuurder",
+      "id": "0d95cb83b2be18495a29414174133aee231a023d"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/job-satisfaction-without-borders",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/job-satisfaction-without-borders",
+      "id": "00a437cba8ae8ba55c3a80198abd079f0c31f878"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/laminaat-interview",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/laminaat-interview",
+      "id": "5fecf511f7cf355011b00896f5add3c0e27204a1"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/leadership-transition-between-ceos",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/leadership-transition-between-ceos",
+      "id": "e8b83475ca356b55f677481d937872fdac50eae6"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/learning-on-the-work-floor",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/learning-on-the-work-floor",
+      "id": "8ec859c03665e74a2acfaaa6d8d10df7f9f8b529"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/mdf-recycling-technology",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/mdf-recycling-technology",
+      "id": "ce2f6d280e65e23cd1e81522decf94d0fce95789"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/nieuwe-vp-hr-katrijn-neemt-over-van-luc",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/nieuwe-vp-hr-katrijn-neemt-over-van-luc",
+      "id": "8bcd36c9fdb30fac6b42b5c8e514a8b1ed27aaa2"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/ook-met-verpakkingsmateriaal-op-weg-naar-circulariteit",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/ook-met-verpakkingsmateriaal-op-weg-naar-circulariteit",
+      "id": "5ce052db09cd46d0507bbb88bbbcaf538f37b263"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/osiris",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/osiris",
+      "id": "a8c82143cb8c597faee995956044b443ada81a05"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/physical-and-mental-health-at-work",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/physical-and-mental-health-at-work",
+      "id": "10a1db0fdca4908098ae6f6ac74e28602efe6254"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/pir-insulation-board-recycling",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/pir-insulation-board-recycling",
+      "id": "f3cecd44f061e9fe8ba576079d478f1f2ebfc924"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/ploegleider-johny",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/ploegleider-johny",
+      "id": "03f0b30c7f29a9d80e74529e36d6ff42dd691026"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/ploegleider-steven-the-dive",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/ploegleider-steven-the-dive",
+      "id": "62061f049a64137bb026e7614cbf4fa2927969aa"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/polen-insulation",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/polen-insulation",
+      "id": "d6623ff515dd70576b7ecab9dd652a792879e34e"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/preventieadviseur-in-de-kijker",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/preventieadviseur-in-de-kijker",
+      "id": "fc1f42aa818e55b8396d46b3a4fa21e7fc152d16"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/procesinnovatie",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/procesinnovatie",
+      "id": "aee366aa0e741999645e65e77060c3c3abc3c2cc"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/pushing-limits-utherm-next",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/pushing-limits-utherm-next",
+      "id": "1b2a658a03aa565fca408f6cba67e7a879ecd379"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/recover-collect-product-for-recycling",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/recover-collect-product-for-recycling",
+      "id": "43e58e56bf22b151a7e1a489ec704fb7b9527698"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/recycling-wood",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/recycling-wood",
+      "id": "5719ea3d544470851cdfab2a6ced0d3d929c6692"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/safety-leadership-coaches",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/safety-leadership-coaches",
+      "id": "fcb66f3b2271eaadf063e3102d9b32c03779e29b"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/story-dieter-dhont",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/story-dieter-dhont",
+      "id": "898c0e2616bc1145717224771656d23c830a83dd"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/talent-pool-technics-milan",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/talent-pool-technics-milan",
+      "id": "bfd424a103765196c4b31966a07cbab4bbb027a7"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/technicians-erik-jonathan-and-rafal",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/technicians-erik-jonathan-and-rafal",
+      "id": "5b9261818a3943e5736b0d5b949b8899774db1c0"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/the-dive",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/the-dive",
+      "id": "b31d36296c46cdb3241e0ed991bf2a52c3ad0697"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/the-dive-education-center",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/the-dive-education-center",
+      "id": "87d4867b1c0491edd236c96ce87a1e8642a16264"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/the-educational-role-of-the-industry",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/the-educational-role-of-the-industry",
+      "id": "7bd958f1634c939b2b6121426c775344cbe5c91e"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/the-young-graduate-journey-at-unilin",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/the-young-graduate-journey-at-unilin",
+      "id": "356ac4cdcbc5bbcc4fbb9ad993c7091435fef6fe"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/unilin-dompelt-kinderen-en-jongeren-onder-in-techniek-en-technologie",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/unilin-dompelt-kinderen-en-jongeren-onder-in-techniek-en-technologie",
+      "id": "e231887dc1d5040be4a62de4cf4995f8d358d839"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/unilin-futurebuild-2025",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/unilin-futurebuild-2025",
+      "id": "b7c08f2e8a15d65562c5ed07ba28cc8e36109427"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/vijf-jaar-zero-harm",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/vijf-jaar-zero-harm",
+      "id": "c32644471020cd6d2045b53d00c6246ccf514608"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/weetjes-lux-21",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/weetjes-lux-21",
+      "id": "92fcce22a02a046503928fa1d624a9db51e7ddda"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/wood-at-unilin",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/wood-at-unilin",
+      "id": "3571991ef99d6bb585dff762f3718fa718d65b38"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/wood-loop",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/wood-loop",
+      "id": "2a091567a539d61ec0ebda2367cdbf77d883fe8f"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/wood-origin",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/wood-origin",
+      "id": "a4e49bf1bd3cfb0ca110c95c1532052d3cc2ee41"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/wood-waste-or-raw-material-unilin-and-wood-loop-to-collect-surplus-wood-for-recycling-purposes",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/wood-waste-or-raw-material-unilin-and-wood-loop-to-collect-surplus-wood-for-recycling-purposes",
+      "id": "1e65fa53aab1111b829944df52031e4320c6bea6"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/working-as-an-accountant-at-unilin-amber-fanny-and-vicky-all-do-it-differently",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/working-as-an-accountant-at-unilin-amber-fanny-and-vicky-all-do-it-differently",
+      "id": "b977ca384154ff4dc3c8d0e48949dec4a99425a4"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/working-for-unilin-for-20-days-or-20-years-aurore-hendrik",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/working-for-unilin-for-20-days-or-20-years-aurore-hendrik",
+      "id": "552f9856a7078e7edaf27c635cec6857ad52e5bf"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/working-for-unilin-for-20-days-vs-20-years",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/working-for-unilin-for-20-days-vs-20-years",
+      "id": "10730037c5a28c46571a89a267faaf3f117fb92a"
+    },
+    {
+      "url": "https://www.unilin.com/en/unilin-stories/zero-harm-officers",
+      "source": "CRAWL",
+      "targetPath": "/en/unilin-stories/zero-harm-officers",
+      "id": "89610f9a65176c68f07520f5ab3bcc458f9ddec4"
+    },
+    {
+      "url": "https://www.unilin.com/sitecore/service/notfound.aspx?item=web%3a%7bF1433ACE-11A7-44C8-B84B-F9B0E88FECFD%7d%40en",
+      "source": "CRAWL",
+      "targetPath": "/sitecore/service/notfound-aspx",
+      "id": "4c29dfaec3a8eadf2686f76545c6f08ff680bfe5"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
