@@ -88,12 +88,6 @@
       "id": "316ca818dc5139140f646b38f2f028280e56d84d"
     },
     {
-      "url": "https://www.unilin.com/en/sitecore/content/sites/unilincorporate/unilincorporate/unilincorporate/home/unilin-stories",
-      "source": "CRAWL",
-      "targetPath": "/en/sitecore/content/sites/unilincorporate/unilincorporate/unilincorporate/home/unilin-stories",
-      "id": "9dd9a35b595fd4354a4816cefcb9213a988d3b48"
-    },
-    {
       "url": "https://www.unilin.com/en/sustainability",
       "source": "CRAWL",
       "targetPath": "/en/sustainability",
